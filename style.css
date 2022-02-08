@@ -1,0 +1,96 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.gipsy{
+border:3px solid black;
+padding-left: 0px;
+padding-right: 0px;
+float:none;
+}
+
+.gipsy img{
+width:100%;
+}
+
+.gipsy hr{
+width: 230px;
+}
+
+.gipsy p , .gypsy h2{
+margin: left 20px;
+}
+
+.movie_head i{
+float: right;
+}
+
+.movie_head {
+font-size:20px;
+border-radius: 10px;
+margin-bottom: 15px;
+width: 100%;
+display: inline-block;
+padding: 6px 22px; 
+}
+
+.movie-text span{
+color: yellow;
+}
+
+.environment_li{
+margin-top: 15px;
+}
+.environment_li h4{
+border-bottom: 3px solid yellowgreen;
+padding: 10px;
+}
+
+.environment_li img{
+border-radius: 25px;
+}
+
+.environment_li p{
+margin-top: 10px;
+}
+
+.quote{
+line-height: 4;
+}
+
+.collection{
+cursor: pointer;
+}
+
+.collection hr{
+margin-bottom: 10px;
+}
+
+.modal-content{
+margin-top: 1oopx;
+}
+
+#book1pic{
+display: inline-block;
+}
+
+.author{
+margin-top: 10px;
+}
+
+.modal-body{
+text-align: center;
+}
